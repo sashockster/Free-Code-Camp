@@ -13,3 +13,9 @@ function findLongestWord(str) {
 }
 
 findLongestWord('The quick brown fox jumped over the lazy dog');
+
+
+/* Code created by Shaina Shockley
+ in 2015 
+
+*/
